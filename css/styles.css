@@ -123,6 +123,7 @@ p {
     background-color: #fff;
     position: fixed;
     top: 0;
+    left: 0;
     z-index: 1;
     padding: 89px 9px 40px 1px;
     opacity: 0;
